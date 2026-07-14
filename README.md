@@ -1,39 +1,119 @@
-<h1 align="center">Hi 👋, I'm Nadim Ouertani</h1>
-<h3 align="center">A passionate Software Engineer from Tunisia</h3>
+# Hi, I'm Nadim Ouertani 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nadim-ouertani&label=Profile%20views&color=0e75b6&style=flat" alt="nadim-ouertani" /> </p>
+## Senior Backend Engineer
 
-<p align="left"> <a href="https://twitter.com/rafongol" target="blank"><img src="https://img.shields.io/twitter/follow/rafongol?logo=twitter&style=for-the-badge" alt="rafongol" /></a> </p>
+I design and build scalable backend systems powering financial transactions, distributed services, search platforms, and business-critical applications.
 
-- 🔭 I’m currently working on [URQR](https://github.com/nadim-ouertani/UAREQR)
+With **7+ years of professional experience**, I've worked across online gaming, financial services, enterprise software, logistics, and real estate, building production systems that support thousands of users and more than **$1M USD in monthly business activity**.
 
-- 🌱 I’m currently learning **ML**
+---
 
-- 👨‍💻 All of my projects are available at [www.nadimouertani.com](www.nadimouertani.com)
+## 🚀 What I Do
 
-- 📝 I regularly write articles on [www.nadimouertani.com](www.nadimouertani.com)
+- Design scalable backend architectures
+- Build high-performance REST APIs
+- Modernize legacy systems into service-oriented architectures
+- Design distributed systems
+- Optimize databases and search platforms
+- Build production-ready Laravel & Python applications
+- Lead technical discussions, mentoring and code reviews
 
-- 💬 Ask me about **Software Engineering && Games!**
+---
 
-- 📫 How to reach me **nadimouertani@hotmail.com**
+## 💼 Current Focus
 
-- 📄 Know about my experiences [https://linkedin.com/in/nadim-ouertani](https://linkedin.com/in/nadim-ouertani)
+- AI-powered Player Intelligence
+- Recommendation Systems
+- Backend Architecture
+- Elasticsearch
+- Distributed Systems
+- Performance Optimization
+- System Design
 
-- ⚡ Fun fact **I think that I will never stop learning**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/nadim-ouertani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nadim-ouertani" height="30" width="40" /></a>
-<a href="https://twitter.com/rafongol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rafongol" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nadim-ouertani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nadim-ouertani" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/7612669" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="7612669" height="30" width="40" /></a>
-<a href="https://kaggle.com/nadimouertani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nadimouertani" height="30" width="40" /></a>
-<a href="https://fb.com/nadim.ouertani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nadim.ouertani" height="30" width="40" /></a>
-</p>
+## 🛠 Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+### Languages
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nadim-ouertani&show_icons=true&locale=en&layout=compact" alt="nadim-ouertani" /></p>
+- PHP
+- Python
+- JavaScript
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nadim-ouertani&show_icons=true&locale=en" alt="nadim-ouertani" /></p>
+### Frameworks
+
+- Laravel
+- FastAPI
+
+### Infrastructure
+
+- AWS
+- Docker
+- Linux
+
+### Databases
+
+- MySQL
+- DynamoDB
+
+### Search & Messaging
+
+- Elasticsearch
+- Redis
+- RabbitMQ
+
+### DevOps
+
+- GitHub Actions
+- GitLab CI
+- Jenkins
+
+---
+
+## 📚 Currently Learning
+
+I'm continuously improving my knowledge in:
+
+- Machine Learning
+- Recommendation Systems
+- Large Language Models
+- Advanced System Design
+- Distributed Computing
+
+---
+
+## 🤝 Leadership
+
+Alongside software development, I also contribute through:
+
+- Technical Interviews
+- Code Reviews
+- Architecture Discussions
+- Production Troubleshooting
+- Mentoring Engineers
+- Project Estimation
+
+---
+
+## 🎯 Career Goal
+
+I'm passionate about building reliable software that solves real business problems at scale.
+
+Currently open to **Senior Backend Engineer**, **Backend Platform Engineer**, and **Software Engineer** opportunities.
+
+---
+
+## 📫 Connect
+
+🌍 Website  
+https://nadimouertani.com
+
+💼 LinkedIn  
+https://linkedin.com/in/nadim-ouertani
+
+📧 Email  
+nadimouertani@hotmail.com
+
+---
+
+> *"Great software is not just about writing code—it's about building systems that remain reliable, maintainable, and scalable for years."*
